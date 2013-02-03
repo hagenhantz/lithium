@@ -1,4 +1,4 @@
-#### You asked for a better framework. Here it is.
+#### You asked for a better framework. Here it is. So it is～
 
 Lithium is the fast, flexible and most RAD development framework for PHP 5.3 and up.
 
